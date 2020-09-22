@@ -1,0 +1,385 @@
+﻿Type,Strategies,Persona,Weight
+Not working,cooking,persona1,0
+Not working,crying,persona1,1
+Not working,drawing,persona1,2
+Not working,drinking alcohol,persona1,4
+Not working,eating,persona1,2
+Not working,eating junk food,persona1,3
+Not working,gardening,persona1,0
+Not working,going to the gym,persona1,2
+Not working,hanging out with family members ,persona1,1
+Not working,hanging out with friends,persona1,0
+Not working,journaling,persona1,3
+Not working,learning a new skill,persona1,0
+Not working,listening to music,persona1,0
+Not working,meditation,persona1,2
+Not working,outdoor activities,persona1,1
+Not working,planning,persona1,0
+Not working,planning/going on trips,persona1,0
+Not working,playing video games,persona1,2
+Not working,reading a self-help book,persona1,1
+Not working,reading books,persona1,0
+Not working,reading/thinking affirmations,persona1,1
+Not working,running,persona1,3
+Not working,shopping/window shopping,persona1,2
+Not working,sleeping,persona1,1
+Not working,spending time on social media,persona1,5
+Not working,talking to a professional,persona1,1
+Not working,talking to family members,persona1,1
+Not working,talking to friends,persona1,0
+Not working,using drugs,persona1,1
+Not working,volunteering,persona1,1
+Not working,watching movies/tv shows,persona1,2
+Not working,yoga,persona1,1
+Works for me,cooking,persona1,1
+Works for me,crying,persona1,4
+Works for me,drawing,persona1,1
+Works for me,drinking alcohol,persona1,1
+Works for me,eating,persona1,1
+Works for me,eating junk food,persona1,2
+Works for me,gardening,persona1,0
+Works for me,going to the gym,persona1,4
+Works for me,hanging out with family members ,persona1,3
+Works for me,hanging out with friends,persona1,5
+Works for me,journaling,persona1,0
+Works for me,learning a new skill,persona1,0
+Works for me,listening to music,persona1,6
+Works for me,meditation,persona1,1
+Works for me,outdoor activities,persona1,2
+Works for me,planning,persona1,4
+Works for me,planning/going on trips,persona1,1
+Works for me,playing video games,persona1,0
+Works for me,reading a self-help book,persona1,1
+Works for me,reading books,persona1,2
+Works for me,reading/thinking affirmations,persona1,0
+Works for me,running,persona1,1
+Works for me,shopping/window shopping,persona1,2
+Works for me,sleeping,persona1,5
+Works for me,spending time on social media,persona1,1
+Works for me,talking to a professional,persona1,2
+Works for me,talking to family members,persona1,4
+Works for me,talking to friends,persona1,5
+Works for me,using drugs,persona1,1
+Works for me,volunteering,persona1,1
+Works for me,watching movies/tv shows,persona1,3
+Works for me,yoga,persona1,3
+Willing to try,cooking,persona1,11
+Willing to try,crying,persona1,2
+Willing to try,drawing,persona1,5
+Willing to try,drinking alcohol,persona1,0
+Willing to try,eating,persona1,0
+Willing to try,eating junk food,persona1,0
+Willing to try,gardening,persona1,5
+Willing to try,going to the gym,persona1,5
+Willing to try,hanging out with family members ,persona1,0
+Willing to try,hanging out with friends,persona1,0
+Willing to try,journaling,persona1,3
+Willing to try,learning a new skill,persona1,8
+Willing to try,listening to music,persona1,0
+Willing to try,meditation,persona1,12
+Willing to try,outdoor activities,persona1,6
+Willing to try,planning,persona1,4
+Willing to try,planning/going on trips,persona1,6
+Willing to try,playing video games,persona1,2
+Willing to try,reading a self-help book,persona1,6
+Willing to try,reading books,persona1,6
+Willing to try,reading/thinking affirmations,persona1,5
+Willing to try,running,persona1,2
+Willing to try,shopping/window shopping,persona1,0
+Willing to try,sleeping,persona1,0
+Willing to try,spending time on social media,persona1,0
+Willing to try,talking to a professional,persona1,9
+Willing to try,talking to family members,persona1,1
+Willing to try,talking to friends,persona1,0
+Willing to try,using drugs,persona1,3
+Willing to try,volunteering,persona1,6
+Willing to try,watching movies/tv shows,persona1,0
+Willing to try,yoga,persona1,7
+Not working,cooking,persona2,1
+Not working,crying,persona2,1
+Not working,drawing,persona2,0
+Not working,drinking alcohol,persona2,2
+Not working,eating,persona2,1
+Not working,eating junk food,persona2,1
+Not working,gardening,persona2,1
+Not working,going to the gym,persona2,0
+Not working,hanging out with family members ,persona2,1
+Not working,hanging out with friends,persona2,2
+Not working,journaling,persona2,2
+Not working,learning a new skill,persona2,0
+Not working,listening to music,persona2,1
+Not working,meditation,persona2,0
+Not working,outdoor activities,persona2,1
+Not working,planning,persona2,1
+Not working,planning/going on trips,persona2,2
+Not working,playing video games,persona2,0
+Not working,reading a self-help book,persona2,1
+Not working,reading books,persona2,1
+Not working,reading/thinking affirmations,persona2,0
+Not working,running,persona2,3
+Not working,shopping/window shopping,persona2,2
+Not working,sleeping,persona2,3
+Not working,spending time on social media,persona2,3
+Not working,talking to a professional,persona2,1
+Not working,talking to family members,persona2,2
+Not working,talking to friends,persona2,1
+Not working,using drugs,persona2,1
+Not working,volunteering,persona2,0
+Not working,watching movies/tv shows,persona2,0
+Not working,yoga,persona2,1
+Works for me,cooking,persona2,1
+Works for me,crying,persona2,3
+Works for me,drawing,persona2,1
+Works for me,drinking alcohol,persona2,1
+Works for me,eating,persona2,1
+Works for me,eating junk food,persona2,1
+Works for me,gardening,persona2,0
+Works for me,going to the gym,persona2,2
+Works for me,hanging out with family members ,persona2,3
+Works for me,hanging out with friends,persona2,2
+Works for me,journaling,persona2,1
+Works for me,learning a new skill,persona2,1
+Works for me,listening to music,persona2,4
+Works for me,meditation,persona2,0
+Works for me,outdoor activities,persona2,2
+Works for me,planning,persona2,2
+Works for me,planning/going on trips,persona2,1
+Works for me,playing video games,persona2,2
+Works for me,reading a self-help book,persona2,1
+Works for me,reading books,persona2,2
+Works for me,reading/thinking affirmations,persona2,2
+Works for me,running,persona2,0
+Works for me,shopping/window shopping,persona2,1
+Works for me,sleeping,persona2,2
+Works for me,spending time on social media,persona2,0
+Works for me,talking to a professional,persona2,1
+Works for me,talking to family members,persona2,2
+Works for me,talking to friends,persona2,2
+Works for me,using drugs,persona2,1
+Works for me,volunteering,persona2,1
+Works for me,watching movies/tv shows,persona2,4
+Works for me,yoga,persona2,1
+Willing to try,cooking,persona2,1
+Willing to try,crying,persona2,0
+Willing to try,drawing,persona2,1
+Willing to try,drinking alcohol,persona2,0
+Willing to try,eating,persona2,0
+Willing to try,eating junk food,persona2,0
+Willing to try,gardening,persona2,1
+Willing to try,going to the gym,persona2,1
+Willing to try,hanging out with family members ,persona2,0
+Willing to try,hanging out with friends,persona2,0
+Willing to try,journaling,persona2,0
+Willing to try,learning a new skill,persona2,3
+Willing to try,listening to music,persona2,0
+Willing to try,meditation,persona2,4
+Willing to try,outdoor activities,persona2,2
+Willing to try,planning,persona2,1
+Willing to try,planning/going on trips,persona2,2
+Willing to try,playing video games,persona2,0
+Willing to try,reading a self-help book,persona2,2
+Willing to try,reading books,persona2,2
+Willing to try,reading/thinking affirmations,persona2,1
+Willing to try,running,persona2,0
+Willing to try,shopping/window shopping,persona2,0
+Willing to try,sleeping,persona2,0
+Willing to try,spending time on social media,persona2,0
+Willing to try,talking to a professional,persona2,2
+Willing to try,talking to family members,persona2,0
+Willing to try,talking to friends,persona2,0
+Willing to try,using drugs,persona2,1
+Willing to try,volunteering,persona2,2
+Willing to try,watching movies/tv shows,persona2,0
+Willing to try,yoga,persona2,3
+Not working,cooking,persona3,0
+Not working,crying,persona3,1
+Not working,drawing,persona3,2
+Not working,drinking alcohol,persona3,1
+Not working,eating,persona3,3
+Not working,eating junk food,persona3,2
+Not working,gardening,persona3,0
+Not working,going to the gym,persona3,1
+Not working,hanging out with family members ,persona3,1
+Not working,hanging out with friends,persona3,1
+Not working,journaling,persona3,1
+Not working,learning a new skill,persona3,0
+Not working,listening to music,persona3,0
+Not working,meditation,persona3,1
+Not working,outdoor activities,persona3,0
+Not working,planning,persona3,1
+Not working,planning/going on trips,persona3,0
+Not working,playing video games,persona3,2
+Not working,reading a self-help book,persona3,0
+Not working,reading books,persona3,0
+Not working,reading/thinking affirmations,persona3,1
+Not working,running,persona3,1
+Not working,shopping/window shopping,persona3,0
+Not working,sleeping,persona3,2
+Not working,spending time on social media,persona3,4
+Not working,talking to a professional,persona3,0
+Not working,talking to family members,persona3,0
+Not working,talking to friends,persona3,0
+Not working,using drugs,persona3,1
+Not working,volunteering,persona3,1
+Not working,watching movies/tv shows,persona3,1
+Not working,yoga,persona3,0
+Works for me,cooking,persona3,0
+Works for me,crying,persona3,2
+Works for me,drawing,persona3,1
+Works for me,drinking alcohol,persona3,0
+Works for me,eating,persona3,2
+Works for me,eating junk food,persona3,1
+Works for me,gardening,persona3,1
+Works for me,going to the gym,persona3,1
+Works for me,hanging out with family members ,persona3,1
+Works for me,hanging out with friends,persona3,3
+Works for me,journaling,persona3,1
+Works for me,learning a new skill,persona3,1
+Works for me,listening to music,persona3,4
+Works for me,meditation,persona3,0
+Works for me,outdoor activities,persona3,3
+Works for me,planning,persona3,2
+Works for me,planning/going on trips,persona3,1
+Works for me,playing video games,persona3,1
+Works for me,reading a self-help book,persona3,0
+Works for me,reading books,persona3,3
+Works for me,reading/thinking affirmations,persona3,0
+Works for me,running,persona3,2
+Works for me,shopping/window shopping,persona3,1
+Works for me,sleeping,persona3,3
+Works for me,spending time on social media,persona3,1
+Works for me,talking to a professional,persona3,2
+Works for me,talking to family members,persona3,3
+Works for me,talking to friends,persona3,5
+Works for me,using drugs,persona3,0
+Works for me,volunteering,persona3,1
+Works for me,watching movies/tv shows,persona3,3
+Works for me,yoga,persona3,0
+Willing to try,cooking,persona3,4
+Willing to try,crying,persona3,0
+Willing to try,drawing,persona3,1
+Willing to try,drinking alcohol,persona3,0
+Willing to try,eating,persona3,0
+Willing to try,eating junk food,persona3,0
+Willing to try,gardening,persona3,2
+Willing to try,going to the gym,persona3,2
+Willing to try,hanging out with family members ,persona3,0
+Willing to try,hanging out with friends,persona3,0
+Willing to try,journaling,persona3,2
+Willing to try,learning a new skill,persona3,2
+Willing to try,listening to music,persona3,0
+Willing to try,meditation,persona3,3
+Willing to try,outdoor activities,persona3,1
+Willing to try,planning,persona3,0
+Willing to try,planning/going on trips,persona3,2
+Willing to try,playing video games,persona3,0
+Willing to try,reading a self-help book,persona3,1
+Willing to try,reading books,persona3,1
+Willing to try,reading/thinking affirmations,persona3,1
+Willing to try,running,persona3,0
+Willing to try,shopping/window shopping,persona3,0
+Willing to try,sleeping,persona3,0
+Willing to try,spending time on social media,persona3,0
+Willing to try,talking to a professional,persona3,2
+Willing to try,talking to family members,persona3,0
+Willing to try,talking to friends,persona3,0
+Willing to try,using drugs,persona3,2
+Willing to try,volunteering,persona3,2
+Willing to try,watching movies/tv shows,persona3,0
+Willing to try,yoga,persona3,2
+Not working,cooking,persona4,0
+Not working,crying,persona4,2
+Not working,drawing,persona4,0
+Not working,drinking alcohol,persona4,0
+Not working,eating,persona4,2
+Not working,eating junk food,persona4,2
+Not working,gardening,persona4,0
+Not working,going to the gym,persona4,0
+Not working,hanging out with family members ,persona4,0
+Not working,hanging out with friends,persona4,0
+Not working,journaling,persona4,1
+Not working,learning a new skill,persona4,0
+Not working,listening to music,persona4,0
+Not working,meditation,persona4,2
+Not working,outdoor activities,persona4,1
+Not working,planning,persona4,0
+Not working,planning/going on trips,persona4,0
+Not working,playing video games,persona4,1
+Not working,reading a self-help book,persona4,2
+Not working,reading books,persona4,0
+Not working,reading/thinking affirmations,persona4,0
+Not working,running,persona4,1
+Not working,shopping/window shopping,persona4,2
+Not working,sleeping,persona4,1
+Not working,spending time on social media,persona4,3
+Not working,talking to a professional,persona4,0
+Not working,talking to family members,persona4,0
+Not working,talking to friends,persona4,1
+Not working,using drugs,persona4,0
+Not working,volunteering,persona4,0
+Not working,watching movies/tv shows,persona4,0
+Not working,yoga,persona4,1
+Works for me,cooking,persona4,2
+Works for me,crying,persona4,2
+Works for me,drawing,persona4,1
+Works for me,drinking alcohol,persona4,0
+Works for me,eating,persona4,2
+Works for me,eating junk food,persona4,0
+Works for me,gardening,persona4,1
+Works for me,going to the gym,persona4,1
+Works for me,hanging out with family members ,persona4,0
+Works for me,hanging out with friends,persona4,3
+Works for me,journaling,persona4,2
+Works for me,learning a new skill,persona4,2
+Works for me,listening to music,persona4,5
+Works for me,meditation,persona4,0
+Works for me,outdoor activities,persona4,3
+Works for me,planning,persona4,3
+Works for me,planning/going on trips,persona4,1
+Works for me,playing video games,persona4,0
+Works for me,reading a self-help book,persona4,0
+Works for me,reading books,persona4,2
+Works for me,reading/thinking affirmations,persona4,0
+Works for me,running,persona4,4
+Works for me,shopping/window shopping,persona4,0
+Works for me,sleeping,persona4,2
+Works for me,spending time on social media,persona4,1
+Works for me,talking to a professional,persona4,2
+Works for me,talking to family members,persona4,5
+Works for me,talking to friends,persona4,2
+Works for me,using drugs,persona4,1
+Works for me,volunteering,persona4,2
+Works for me,watching movies/tv shows,persona4,3
+Works for me,yoga,persona4,1
+Willing to try,cooking,persona4,3
+Willing to try,crying,persona4,1
+Willing to try,drawing,persona4,1
+Willing to try,drinking alcohol,persona4,0
+Willing to try,eating,persona4,0
+Willing to try,eating junk food,persona4,0
+Willing to try,gardening,persona4,2
+Willing to try,going to the gym,persona4,1
+Willing to try,hanging out with family members ,persona4,0
+Willing to try,hanging out with friends,persona4,0
+Willing to try,journaling,persona4,1
+Willing to try,learning a new skill,persona4,2
+Willing to try,listening to music,persona4,0
+Willing to try,meditation,persona4,2
+Willing to try,outdoor activities,persona4,1
+Willing to try,planning,persona4,1
+Willing to try,planning/going on trips,persona4,1
+Willing to try,playing video games,persona4,1
+Willing to try,reading a self-help book,persona4,1
+Willing to try,reading books,persona4,1
+Willing to try,reading/thinking affirmations,persona4,2
+Willing to try,running,persona4,0
+Willing to try,shopping/window shopping,persona4,0
+Willing to try,sleeping,persona4,0
+Willing to try,spending time on social media,persona4,0
+Willing to try,talking to a professional,persona4,2
+Willing to try,talking to family members,persona4,0
+Willing to try,talking to friends,persona4,0
+Willing to try,using drugs,persona4,0
+Willing to try,volunteering,persona4,1
+Willing to try,watching movies/tv shows,persona4,0
+Willing to try,yoga,persona4,1
