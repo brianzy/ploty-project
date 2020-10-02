@@ -1,6 +1,6 @@
 ﻿ZONE,Item,Weight,Persona,Severity Level,Category
 zone1,being vulnerable in therapy,1,4,L1,Physical and Mental Health
-zone1,being with/around friends,1,1,L1,Community
+zone1,being with/around friends,1,1,L1,Social Connections
 zone1,class,1,2,L1,Academic
 zone1,class,1,4,L1,Academic
 zone1,finances,2,1,"L1, L2","Future, Career, and Finance"
@@ -17,8 +17,8 @@ zone1,presentations,1,4,L1,Academic
 zone1,projects,1,2,L1,Academic
 zone1,quizzes/exams,1,1,L1,Academic
 zone1,work,1,1,L1,"Future, Career, and Finance"
-zone 2,family,1,2,L1,Relationship and Family
-zone 2,going to church,1,3,L2,Community
+zone 2,family,1,2,L1,Social Connections
+zone 2,going to church,1,3,L2,Social Connections
 zone 2,health,1,2,L1,Physical and Mental Health
 zone 2,homework,1,2,L1,Academic
 zone 2,optional programs,1,3,L1,Academic
@@ -29,7 +29,7 @@ zone 2,projects,1,2,L1,Academic
 zone 2,projects,1,3,L1,Academic
 zone 2,quizzes/exams,2,1,"L1, L2",Academic
 zone 2,quizzes/exams,1,4,L1,Academic
-zone 2,relationship,2,2,L1,Relationship and Family
+zone 2,relationship,2,2,L1,Social Connections
 zone 2,work,1,1,L1,"Future, Career, and Finance"
 zone 2,work,1,4,L1,"Future, Career, and Finance"
 zone 2,workout,1,2,L1,Physical and Mental Health
@@ -49,8 +49,8 @@ zone 3,presentations,1,1,L1,Academic
 zone 3,presentations,1,4,L1,Academic
 zone 3,quizzes/exams,2,1,L1,Academic
 zone 3,quizzes/exams,1,3,L1,Academic
-zone 3,relationship,1,1,L1,Relationship and Family
-zone 3,relationship,1,2,L1,Relationship and Family
+zone 3,relationship,1,1,L1,Social Connections
+zone 3,relationship,1,2,L1,Social Connections
 zone 3,sleep,2,1,"L1, L2",Physical and Mental Health
 zone 3,sleep,1,2,L1,Physical and Mental Health
 zone 3,sleep,1,3,L3,Physical and Mental Health
@@ -58,10 +58,10 @@ zone 3,work,1,1,L1,"Future, Career, and Finance"
 zone 3,writing papers,1,2,L1,Academic
 zone 4,class,1,3,L1,Academic
 zone 4,class,1,4,L1,Academic
-zone 4,Family,1,4,L1,Relationship and Family
+zone 4,Family,1,4,L1,Social Connections
 zone 4,GPA,1,2,L2,Academic
 zone 4,health,1,1,L1,Physical and Mental Health
-zone 4,housing,1,1,L2,Community
+zone 4,housing,1,1,L2,Social Connections
 zone 4,internship,1,1,L1,"Future, Career, and Finance"
 zone 4,internship,1,3,L1,"Future, Career, and Finance"
 zone 4,midterms/finals,1,1,L1,Academic
@@ -71,18 +71,18 @@ zone 4,presentations,2,1,L1,Academic
 zone 4,presentations,2,2,L1,Academic
 zone 4,projects,1,4,L1,Academic
 zone 4,quizzes/exams,1,4,L1,Academic
-zone 4,Resident Advising,1,4,L1,Community
+zone 4,Resident Advising,1,4,L1,Social Connections
 zone 4,scholarship,1,2,L1,Academic
 zone 4,scholarship,1,4,L2,Academic
-zone 4,socializing,1,2,L1,Community
-zone 4,socializing,1,3,L2,Community
+zone 4,socializing,1,2,L1,Social Connections
+zone 4,socializing,1,3,L2,Social Connections
 zone 4,study abroad,1,2,L1,Academic
 zone 4,when I feel like I don’t have time,1,4,L2,Physical and Mental Health
 zone 4,writing papers,1,4,L1,Academic
 zone 5,body image,1,2,L1,Physical and Mental Health
 zone 5,class,1,3,L1,Academic
-zone 5,family,1,1,L1,Relationship and Family
-zone 5,family,1,3,L1,Relationship and Family
+zone 5,family,1,1,L1,Social Connections
+zone 5,family,1,3,L1,Social Connections
 zone 5,finances,1,2,L1,"Future, Career, and Finance"
 zone 5,finances,1,3,L1,"Future, Career, and Finance"
 zone 5,future,1,4,L2,"Future, Career, and Finance"
@@ -101,10 +101,10 @@ zone 5,projects,1,4,L1,Academic
 zone 5,quizzes/exams,2,1,L1,Academic
 zone 5,quizzes/exams,4,2,"L1, L2",Academic
 zone 5,quizzes/exams,1,3,L1,Academic
-zone 5,relationship,1,1,L2,Relationship and Family
-zone 5,relationship,2,3,"L1, L2",Relationship and Family
-zone 5,relationship,1,4,L2,Relationship and Family
-zone 5,socializing,1,4,L2,Community
+zone 5,relationship,1,1,L2,Social Connections
+zone 5,relationship,2,3,"L1, L2",Social Connections
+zone 5,relationship,1,4,L2,Social Connections
+zone 5,socializing,1,4,L2,Social Connections
 zone 5,study abroad,1,1,L1,Academic
 zone 6,class,1,1,L1,Academic
 zone 6,finance,1,2,L1,"Future, Career, and Finance"
@@ -124,7 +124,7 @@ zone 6,projects,2,1,L1,Academic
 zone 6,projects,1,2,L2,Academic
 zone 6,quizzes/exams,2,2,L2,Academic
 zone 6,quizzes/exams,1,3,L2,Academic
-zone 6,relationship,1,1,L1,Relationship and Family
+zone 6,relationship,1,1,L1,Social Connections
 zone 6,work,2,2,L1,"Future, Career, and Finance"
 zone 6,work,1,4,L1,"Future, Career, and Finance"
 zone 7,future,1,1,L2,"Future, Career, and Finance"
@@ -142,8 +142,8 @@ zone 7,projects,1,2,L2,Academic
 zone 7,projects,1,3,L1,Academic
 zone 7,quizzes/exams,1,2,L2,Academic
 zone 7,quizzes/exams,1,3,L1,Academic
-zone 7,relationship,1,2,L3,Relationship and Family
-zone 7,talking to teachers,1,1,L2,Community
+zone 7,relationship,1,2,L3,Social Connections
+zone 7,talking to teachers,1,1,L2,Social Connections
 zone 8,body image,1,1,L3,Physical and Mental Health
 zone 8,compounding stress,1,4,L2,Physical and Mental Health
 zone 8,finances,1,3,L2,"Future, Career, and Finance"
@@ -151,7 +151,7 @@ zone 8,future,2,1,"L2,L3","Future, Career, and Finance"
 zone 8,GPA,1,1,L3,Academic
 zone 8,health,1,2,L3,Physical and Mental Health
 zone 8,homework,1,2,L1,Academic
-zone 8,mean classmates,1,1,L3,Community
+zone 8,mean classmates,1,1,L3,Social Connections
 zone 8,mental health,1,4,L2,Physical and Mental Health
 zone 8,midterms/finals,3,1,"L2,L3",Academic
 zone 8,midterms/finals,2,2,"L2,L3",Academic
@@ -162,7 +162,7 @@ zone 8,quizzes/exams,3,1,"L1,L2,L3",Academic
 zone 8,quizzes/exams,1,3,L2,Academic
 zone 9,class,1,1,L2,Academic
 zone 9,class,1,3,L2,Academic
-zone 9,family,1,1,L1,Relationship and Family
+zone 9,family,1,1,L1,Social Connections
 zone 9,finances,1,1,L3,"Future, Career, and Finance"
 zone 9,finances,1,3,L2,"Future, Career, and Finance"
 zone 9,future,2,1,"L2,L3","Future, Career, and Finance"
@@ -176,13 +176,13 @@ zone 9,health,1,2,L2,Physical and Mental Health
 zone 9,homework,1,1,L3,Academic
 zone 9,homework,1,2,L2,Academic
 zone 9,homework,2,3,L1,Academic
-zone 9,loss of parents,1,2,L3,Relationship and Family
+zone 9,loss of parents,1,2,L3,Social Connections
 zone 9,mental health,1,2,L3,Physical and Mental Health
 zone 9,mental health,2,3,L3,Physical and Mental Health
 zone 9,planning,1,1,L2,"Future, Career, and Finance"
 zone 9,projects,1,1,L2,Academic
 zone 9,quizzes/exams,1,2,L1,Academic
-zone 9,relationships,1,3,L3,Relationship and Family
-zone 9,relationships,1,4,L3,Relationship and Family
-zone 9,socializing,1,1,L2,Community
+zone 9,relationships,1,3,L3,Social Connections
+zone 9,relationships,1,4,L3,Social Connections
+zone 9,socializing,1,1,L2,Social Connections
 zone 9,work,1,3,L2,"Future, Career, and Finance"
