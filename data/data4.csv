@@ -7,7 +7,7 @@ Not working,eating,persona1,2
 Not working,eating junk food,persona1,3
 Not working,gardening,persona1,0
 Not working,going to the gym,persona1,2
-Not working,hanging out with family members ,persona1,1
+Not working,hanging out with family members,persona1,1
 Not working,hanging out with friends,persona1,0
 Not working,journaling,persona1,3
 Not working,learning a new skill,persona1,0
@@ -39,7 +39,7 @@ Works for me,eating,persona1,1
 Works for me,eating junk food,persona1,2
 Works for me,gardening,persona1,0
 Works for me,going to the gym,persona1,4
-Works for me,hanging out with family members ,persona1,3
+Works for me,hanging out with family members,persona1,3
 Works for me,hanging out with friends,persona1,5
 Works for me,journaling,persona1,0
 Works for me,learning a new skill,persona1,0
@@ -71,7 +71,7 @@ Willing to try,eating,persona1,0
 Willing to try,eating junk food,persona1,0
 Willing to try,gardening,persona1,5
 Willing to try,going to the gym,persona1,5
-Willing to try,hanging out with family members ,persona1,0
+Willing to try,hanging out with family members,persona1,0
 Willing to try,hanging out with friends,persona1,0
 Willing to try,journaling,persona1,3
 Willing to try,learning a new skill,persona1,8
@@ -103,7 +103,7 @@ Not working,eating,persona2,1
 Not working,eating junk food,persona2,1
 Not working,gardening,persona2,1
 Not working,going to the gym,persona2,0
-Not working,hanging out with family members ,persona2,1
+Not working,hanging out with family members,persona2,1
 Not working,hanging out with friends,persona2,2
 Not working,journaling,persona2,2
 Not working,learning a new skill,persona2,0
@@ -135,7 +135,7 @@ Works for me,eating,persona2,1
 Works for me,eating junk food,persona2,1
 Works for me,gardening,persona2,0
 Works for me,going to the gym,persona2,2
-Works for me,hanging out with family members ,persona2,3
+Works for me,hanging out with family members,persona2,3
 Works for me,hanging out with friends,persona2,2
 Works for me,journaling,persona2,1
 Works for me,learning a new skill,persona2,1
@@ -327,7 +327,7 @@ Works for me,eating,persona4,2
 Works for me,eating junk food,persona4,0
 Works for me,gardening,persona4,1
 Works for me,going to the gym,persona4,1
-Works for me,hanging out with family members ,persona4,0
+Works for me,hanging out with family members,persona4,0
 Works for me,hanging out with friends,persona4,3
 Works for me,journaling,persona4,2
 Works for me,learning a new skill,persona4,2
